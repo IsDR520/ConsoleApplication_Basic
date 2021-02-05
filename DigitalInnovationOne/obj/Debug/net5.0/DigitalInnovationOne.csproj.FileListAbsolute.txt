@@ -1,0 +1,16 @@
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.exe
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.deps.json
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.json
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.dev.json
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.dll
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\bin\Debug\net5.0\ref\DigitalInnovationOne.dll
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.pdb
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csprojAssemblyReference.cache
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfo.cs
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.dll
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\obj\Debug\net5.0\ref\DigitalInnovationOne.dll
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.pdb
+D:\Projetos\CSharp\DIO\CSharp\Console\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.genruntimeconfig.cache
